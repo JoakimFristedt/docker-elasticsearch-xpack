@@ -2,4 +2,4 @@
 
 `docker run -p 9200:9200 --name elasticsearch joakimfristedt/elasticsearch-xpack`
 
-
+Default credentials `elastic/changeme`
